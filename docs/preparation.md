@@ -28,6 +28,14 @@ $ npm config set registry https://registry.npm.taobao.org/
 $ npm config get registry
 ```
 
+## 安裝程式碼編輯器
+
+選擇以下之一（或其他任何一套你喜歡的）
+
+- [Visual Studio Code](https://code.visualstudio.com/) （Recommended）
+- [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/)
+
 ## 安裝 Postman
 
 Postman 是一個 HTTP 通訊測試工具，REST API 的練習會用到它。
