@@ -1,6 +1,6 @@
 function reducer(state = {
-  text: '你好，访问者',
-  name: '访问者'
+  text: '你好，訪問者',
+  name: '訪問者'
 }, action) {
   switch (action.type) {
     case 'change':
